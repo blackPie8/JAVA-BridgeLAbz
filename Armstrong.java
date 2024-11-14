@@ -1,7 +1,7 @@
 import java.util.*;
 public class Armstrong {
     public static void main(String[] args) {
-        int num = 1634;
+        int num = 1634 ;
 
         if(isArmstrong(num)){
             System.out.println("Armstrong Number");
